@@ -1,0 +1,17 @@
+﻿Chicken Rice: 110
+Pork Sisig: 100
+Sizzling Liempo: 125
+Sizzling Bangus: 125
+Meatballs: 100
+Lumpiang Okoy: 25
+Adobo: 120
+Sinigang: 130
+Kaldereta: 110
+Menudo: 120
+Beef Steak: 140
+Rice: 25
+Coke: 35
+Water: 20
+C2: 30
+Pineapple Juice: 40
+Gatorade: 50

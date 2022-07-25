@@ -1,0 +1,14 @@
+               Food Pandas Canteen                
+--------------------------------------------------
+4 pc(s) ﻿Chicken Rice costs PHP 440.00
+--------------------------------------------------
+Total Cost: PHP 440.00
+Discount: None
+Cash Tendered: PHP 440.00
+Change: PHP 0.00
+Mode of Payment: G-Cash
+Account Number: (+63)917
+Time of Pickup: 1:50 PM - 2:10 PM
+--------------------------------------------------
+        Thank you for using this facility!        
+                   Come again!                    
